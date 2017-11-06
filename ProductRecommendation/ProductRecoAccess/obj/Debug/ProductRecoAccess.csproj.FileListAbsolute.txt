@@ -1,0 +1,10 @@
+c:\users\u035179\documents\visual studio 2015\Projects\ProductRecommendation\ProductRecoAccess\bin\Debug\ProductRecoAccess.dll.config
+c:\users\u035179\documents\visual studio 2015\Projects\ProductRecommendation\ProductRecoAccess\bin\Debug\ProductRecoAccess.dll
+c:\users\u035179\documents\visual studio 2015\Projects\ProductRecommendation\ProductRecoAccess\bin\Debug\ProductRecoAccess.pdb
+c:\users\u035179\documents\visual studio 2015\Projects\ProductRecommendation\ProductRecoAccess\bin\Debug\EntityFramework.dll
+c:\users\u035179\documents\visual studio 2015\Projects\ProductRecommendation\ProductRecoAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\u035179\documents\visual studio 2015\Projects\ProductRecommendation\ProductRecoAccess\bin\Debug\EntityFramework.xml
+c:\users\u035179\documents\visual studio 2015\Projects\ProductRecommendation\ProductRecoAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\u035179\documents\visual studio 2015\Projects\ProductRecommendation\ProductRecoAccess\obj\Debug\ProductRecoAccess.csprojResolveAssemblyReference.cache
+c:\users\u035179\documents\visual studio 2015\Projects\ProductRecommendation\ProductRecoAccess\obj\Debug\ProductRecoAccess.dll
+c:\users\u035179\documents\visual studio 2015\Projects\ProductRecommendation\ProductRecoAccess\obj\Debug\ProductRecoAccess.pdb

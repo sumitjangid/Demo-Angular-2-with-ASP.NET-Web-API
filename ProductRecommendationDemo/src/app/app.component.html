@@ -1,0 +1,32 @@
+<div style="text-align:center" class="jumbotron">
+  <h2>Welcome to {{title}}</h2>
+</div>
+
+<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+  <h3>Product Recommendation List:</h3>
+  <button type="button" class="btn btn-primary" (click)="onProductRecoClick()">Generate Product Recommendations</button>
+</div>
+<br>
+<br/>
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Id</th>
+        <th>Manufacturer</th>
+        <th>Product Category</th>
+        <th>Sub-Category</th>
+        <th>Recommendation</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of productrecos">
+        <td>{{item.Id}}</td>
+        <td>{{item.Manufacturer}}</td>
+        <td>{{item.ProductCategory}}</td>
+        <td>{{item.SubCategory}}</td>
+        <td>{{item.RecommendedResult}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
